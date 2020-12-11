@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my blog hosted on GitHub Pages
 
 I'm glad you are here. I plan to talk about ...
